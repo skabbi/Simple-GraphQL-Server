@@ -1,0 +1,22 @@
+{
+  "name": "simple-graphql-server",
+  "version": "1.0.0",
+  "description": "Simple GraphQL server example",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/skabbi/Simple-GraphQL-Server.git"
+  },
+  "author": "Skabbi",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/skabbi/Simple-GraphQL-Server/issues"
+  },
+  "homepage": "https://github.com/skabbi/Simple-GraphQL-Server#readme",
+  "dependencies": {
+    "apollo-server": "^2.9.5"
+  }
+}
